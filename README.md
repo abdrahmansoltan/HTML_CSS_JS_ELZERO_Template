@@ -2,7 +2,7 @@
 
 Demo
 
-https://abdrahmansoltan.github.io/HTML_CSS_ELZERO/
+https://abdrahmansoltan.github.io/HTML_CSS_JS_ELZERO_Template/
 
 ### Practicing HTML,CSS and JS and learning new animations and visually appealing designs from @ElzeroWebSchool
 
